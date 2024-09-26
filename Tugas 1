@@ -1,0 +1,14 @@
+const nama = document.querySelector('#nama');
+nama.textContentn = "Muh. Agung Hanapi";
+
+const nim = document.querySelector('#nim');
+nim.textContent = "20230040073";
+
+const jurusan = document.querySelector('#jurusan');
+jurusan.textContent = "Teknik informatika";
+
+const ttl = document.querySelector('#ttl');
+ttl.textContent = "Sukabumi, 06 februari 2005";
+
+const alamat = document.querySelector('#alamat');
+alamat.textContent = "Kp. Babakan Desa Babakan Kec. Cisaat Kab. Sukabumi";
